@@ -1,3 +1,3 @@
 # LunaOS
-> The OFFICIAL OS of 'Project Luna'
+> The OFFICIAL OS of 'Arch-Luna'
 > 
